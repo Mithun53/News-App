@@ -1,4 +1,5 @@
 //API Used: http://newsapi.org/s/india-news-api
+let apiKey="1f935e21880e48908d1240976d61d859" ;
 const container = document.querySelector(".container");
 const optionsContainer = document.querySelector(".options-container");
 // "in" stands for India
